@@ -7,6 +7,8 @@
   ],
   "profile": { "name": "earlyriser" },
   "counter": [
-    {"id": 1, "value":100}
+    {"id": 1, "value":111},
+    {"id": 2, "value":222},
+    {"id": 3, "value":333}
   ]
 }
