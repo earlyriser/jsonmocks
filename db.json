@@ -6,5 +6,7 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" },
-  "counter": 5
+  "counter": [
+    {"id": 1, "value":100}
+  ]
 }
